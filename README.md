@@ -1,23 +1,25 @@
-# DAMAS Multilingual Website
+# DAMAS – Bilingual Business Website
 
 **Live Demo:** https://damas.peterkostandy.com
 
 ## 📋 Project Overview
-Professional bilingual (Arabic/English) website with PHP backend, MySQL database, and fully responsive design.
+DAMAS is a professional bilingual business website developed using PHP, HTML, CSS, and JavaScript.
+
+The website was designed to provide a clean and responsive user experience while supporting multilingual content and dynamic page management for business presentation.
 
 ## 🎯 Features
-- ✅ Bilingual support (Arabic & English)
-- ✅ PHP backend with MVC architecture
-- ✅ MySQL database integration
-- ✅ Fully responsive design (mobile, tablet, desktop)
-- ✅ SEO optimized
-- ✅ Fast deployment & performance
+- ✅ Bilingual support (English & German)
+- ✅ Dynamic content management
+- ✅ Responsive design
+- ✅ Clean navigation & user-friendly layout
+- ✅ SEO-friendly structure
+- ✅ Optimized performance
 
 ## 🛠 Technologies Used
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** PHP
-- **Database:** MySQL
-- **Deployment:** cPanel/Shared Hosting
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap
+- Backend: PHP
+- Database: MySQL
+- Deployment: cPanel / Shared Hosting
 
 ## 📸 Screenshots
 <img width="1897" height="916" alt="1" src="https://github.com/user-attachments/assets/14f8b326-74fe-48a2-842a-dddd0c1608cc" />
@@ -30,28 +32,34 @@ Professional bilingual (Arabic/English) website with PHP backend, MySQL database
 <img width="1895" height="903" alt="8" src="https://github.com/user-attachments/assets/82cbeb25-e35d-4454-a801-6715d280e96c" />
 <img width="1892" height="916" alt="9" src="https://github.com/user-attachments/assets/b56ef24a-d47a-4266-9fe1-a45d99b4b062" />
 
-
-## 🚀 How to Use
-1. Clone this repository
-2. Set up MySQL database
-3. Configure database credentials in config file
-4. Upload to hosting via FTP/cPanel
-5. Access via https://damas.peterkostandy.com
-
 ## 📝 Project Details
-- **Client:** DAMAS
-- **Duration:** 1 Week
-- **Type:** Corporate/Business Website
+- Client: DAMAS
+- Duration: 1 Week
+- Type: Corporate / Business Website
+- Languages Supported: English & German
+
+## 🚀 Setup
+1. Clone the repository
+2. Configure database credentials
+3. Import database if required
+4. Upload files via cPanel or FTP
+5. Access the live website
+
+## ✨ Highlights
+- Bilingual user experience
+- Dynamic PHP-based website
+- Responsive design across devices
+- Business-focused interface
+- Fast deployment and hosting setup
 
 ## 🔗 Links
-- **Live Website:** https://damas.peterkostandy.com
-- **Portfolio:** https://froeid-portfolio.vercel.app
+- Live Website: https://damas.peterkostandy.com
 
 ## 👨‍💻 Author
-**Froeid Samer** - Frontend & WordPress Developer
-- Email: froeidsamer@gmail.com
-- LinkedIn: https://www.linkedin.com/in/froeid-samer-9a50a9300/
-- Portfolio: https://froeid-portfolio.vercel.app
+Froeid Samer  
+Frontend & WordPress Developer
+
+LinkedIn: https://www.linkedin.com/in/froeid-samer-9a50a9300/
 
 ## 📄 License
-This project is proprietary. All rights reserved.
+Proprietary project — All rights reserved.
